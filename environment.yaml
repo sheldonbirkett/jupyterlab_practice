@@ -1,0 +1,8 @@
+name: jl_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - ipykernel
+  - jupyterlab
+prefix: C:\Users\sheld\miniconda3\envs\jl_env
